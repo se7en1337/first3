@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Нахождение первых трёх делителей.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Нахождение первых трёх делителей.vcxproj -> C:\Users\leono.DESKTOP-M3R2D9O\Documents\Visual Studio 2015\Projects\Нахождение первых трёх делителей\Debug\Простые делители.exe
+  Нахождение первых трёх делителей.vcxproj -> C:\Users\leono.DESKTOP-M3R2D9O\Documents\Visual Studio 2015\Projects\Нахождение первых трёх делителей\Debug\Простые делители.pdb (Full PDB)
